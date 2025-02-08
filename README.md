@@ -87,13 +87,6 @@ then improved accuracy by adjusting different aspect of algorithms.
 
 ```
 
-![](https://raw.githubusercontent.com/chayandatta/Heart_disease_prediction/master/download.png) 
-
-> Final Decision tree
-
-
----
-
 
 Dataset source ([link](https://archive.ics.uci.edu/ml/datasets/Heart+Disease))
 > Dataset Creators: 
@@ -113,6 +106,4 @@ this date. The "goal" field refers to the presence of heart disease in the patie
 
 ---
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=chayandatta/Heart_disease_prediction&type=Date)](https://star-history.com/#chayandatta/Heart_disease_prediction&Date)
